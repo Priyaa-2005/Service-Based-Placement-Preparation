@@ -72,7 +72,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 
 | Day | Topic | Questions Solved |
 |-----|-------|------------------|
-| Day 1 | Yet to Start | 0 |
+| Day 1 | Arrays | 1 |
 
 ---
 
