@@ -12,7 +12,7 @@ Welcome to my **Service-Based Placement Preparation** repository!
 
 This repository documents my journey of preparing for **service-based company placements** through consistent **Data Structures and Algorithms (DSA)** practice in **Java**.
 
-I primarily solve coding questions from **RisingMind** and regularly update this repository with clean, optimized solutions and meaningful commit history.
+I primarily solve coding questions from **RisingBrain** and regularly update this repository with clean, optimized solutions and meaningful commit history.
 
 > **Note:** All solutions in this repository are my own implementations created for learning, revision, and interview preparation.
 This repository will be updated regularly as I continue solving DSA problems throughout my placement preparation journey.
@@ -38,7 +38,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 
 ## 📚 Primary Practice Source
 
-- RisingMind
+- RisingBrain
 
 ---
 
@@ -46,7 +46,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 
 | Topic | Status |
 |--------|--------|
-| Arrays | ⏳ Not Started |
+| Arrays |  Started |
 | Strings | ⏳ Not Started |
 | Sorting | ⏳ Not Started |
 | Binary Search | ⏳ Not Started |
@@ -73,6 +73,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day | Topic | Questions Solved |
 |-----|-------|------------------|
 | Day 1 | Arrays | 1 |
+| Day 2 | Arrays | 1 |
 
 ---
 

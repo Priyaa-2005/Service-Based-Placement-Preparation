@@ -3,7 +3,7 @@
 Problem       : Two Sum
 LeetCode No.  : 1
 Platform      : LeetCode
-Source        : RisingMind
+Source        : RisingBrain
 Topic         : Arrays, HashMap
 Difficulty    : Easy
 ------------------------------------------------------------
