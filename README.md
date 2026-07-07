@@ -76,6 +76,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day 2 | Arrays | 1 |
 | Day 3 | Arrays | 1 |
 | Day 4 | Arrays | 1 |
+| Day 5 | Arrays | 1 |
 
 ---
 
