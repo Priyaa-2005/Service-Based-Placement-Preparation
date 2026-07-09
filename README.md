@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Service-Based Placement Preparation in Java</h1>
 
 <p align="center">
-  <b>Java DSA Solutions | RisingMind | Placement Journey</b>
+  <b>Java DSA Solutions | RisingBrain | Placement Journey</b>
 </p>
 
 ---
@@ -77,6 +77,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day 3 | Arrays | 1 |
 | Day 4 | Arrays | 1 |
 | Day 5 | Arrays | 1 |
+| Day 6 | Arrays | 2 |
 
 ---
 
