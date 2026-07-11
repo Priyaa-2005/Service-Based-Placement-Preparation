@@ -47,7 +47,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Topic | Status |
 |--------|--------|
 | Arrays |  Started |
-| Strings | ⏳ Not Started |
+| Strings | ⏳ Started |
 | Sorting | ⏳ Not Started |
 | Binary Search | ⏳ Not Started |
 | Hashing | ⏳ Not Started |
@@ -79,6 +79,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day 5 | Arrays | 1 |
 | Day 6 | Arrays | 2 |
 | Day 7 | Arrays | 1 |
+| Day 8 | Strings | 1 |
 
 ---
 
