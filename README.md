@@ -80,6 +80,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day 6 | Arrays | 2 |
 | Day 7 | Arrays | 1 |
 | Day 8 | Strings | 1 |
+| Day 9 | Strings | 1 |
 
 ---
 
