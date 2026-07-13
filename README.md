@@ -72,15 +72,16 @@ This repository will be updated regularly as I continue solving DSA problems thr
 
 | Day | Topic | Questions Solved |
 |-----|-------|------------------|
-| Day 1 | Arrays | 1 |
-| Day 2 | Arrays | 1 |
-| Day 3 | Arrays | 1 |
-| Day 4 | Arrays | 1 |
-| Day 5 | Arrays | 1 |
-| Day 6 | Arrays | 2 |
-| Day 7 | Arrays | 1 |
-| Day 8 | Strings | 1 |
-| Day 9 | Strings | 1 |
+| Day 01 | Arrays | 01 |
+| Day 02 | Arrays | 01 |
+| Day 03 | Arrays | 01 |
+| Day 04 | Arrays | 01 |
+| Day 05 | Arrays | 01 |
+| Day 06 | Arrays | 02 |
+| Day 07 | Arrays | 01 |
+| Day 08 | Strings | 1 |
+| Day 09 | Strings | 1 |
+| Day 10 | Strings | 1 |
 
 ---
 
