@@ -83,6 +83,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day 09 | Strings | 1 |
 | Day 10 | Strings | 1 |
 | Day 11 | Strings | 1 |
+| Day 12 | Strings | 3 |
 
 ---
 
