@@ -86,6 +86,7 @@ This repository will be updated regularly as I continue solving DSA problems thr
 | Day 12 | Strings | 3 |
 | Day 13 | Strings | 1 |
 | Day 14 | Hashings | 1 |
+| Day 15 | Hashings | 1 |
 
 
 ---
